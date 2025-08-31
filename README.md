@@ -40,4 +40,4 @@ The goal is to build a text classification model using both classical machine le
 ---
 
 ## 📌 About
-Developed as part of an **NLP internship project** to explore news classification using both classical ML and neural networks.
+Developed as part of an **NLP internship** to explore news classification using both classical ML and neural networks.
